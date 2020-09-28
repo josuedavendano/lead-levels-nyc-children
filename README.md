@@ -1,6 +1,5 @@
 # Lead Levels in NYC Children
 
-By: Sokol Sheri, Josue Avendano, Daryl Tobierre, Fjodi Hyzoti
 
 Summary
 
